@@ -20,7 +20,11 @@ Python 3.6.8 with TensorFlow 1.15.0, NumPy 1.19.5, Scikit-learn 0.24.2 and Matpl
 
 `utils.py` includes the necessary utilities.
 
-The complete training process will be updated after the paper is accepted.
+Run `train.py` scripts to train the model.
+
+```python
+python train.py
+```
 
 ## Reference
 
